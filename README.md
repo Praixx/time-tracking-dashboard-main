@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Praixx/time-tracking-dashboard-main)
+- Live Site URL: (https://dainty-sunflower-87afc4.netlify.app/)
 
 ## My process
 
@@ -59,7 +59,7 @@ i had so much fun working on this because i was able to learn more about asyncro
 
 ## Author
 - Github - [Olaoye Praise](https://github.com/Praixx)
-- Email - [Olaoye Praise](praix1y@gmail.com)
+- Email - (praix1y@gmail.com)
 - Twitter - [@Praixx_](https://www.twitter.com/Praixx_)
 
 ## Acknowledgments
